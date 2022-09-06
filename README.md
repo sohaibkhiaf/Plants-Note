@@ -23,13 +23,13 @@ if you want the APK file to install the application (Plants Note)
        
 Screenshots:
 
-<div float = "left">
+<p float = "left">
 
           <img src="screenshots/1-list-empty.png" width="360" >
           <img src="screenshots/2-add-plant.png" width="360" >
           <img src="screenshots/3-fill-fields.png" width="360">
           
-</div>
+</p>
 
 
 
