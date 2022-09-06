@@ -18,11 +18,9 @@ This is a mobile app project that represents a note of plants, and it is created
 
 -the user has to click twice on back button in 2s to exit from the app in the MainActivity.
 
-if you want the APK file to install the application (Plants Note) 
-       and test it by yourself here is a direct mediafire link : https://www.mediafire.com/file/7b0mdkbj4tgc7tc/Plants-Note.apk/file
+if you want to install Plants Note on your Android device : [Download APK file](https://www.mediafire.com/file/7b0mdkbj4tgc7tc/Plants-Note.apk/file)
        
 Screenshots:
-
 
 <table>
   <tr>
