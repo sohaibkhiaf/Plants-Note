@@ -25,9 +25,9 @@ Screenshots:
 
 <p float="left">
 
-          <img src="screenshots/1-list-empty.png" width="360" />
-          <img src="screenshots/2-add-plant.png" width="360" />
-          <img src="screenshots/3-fill-fields.png" width="360" />
+          <img src="screenshots/1-list-empty.png" width="33%" />
+          <img src="screenshots/2-add-plant.png" width="33%" />
+          <img src="screenshots/3-fill-fields.png" width="33%" />
           
 </p>
 
