@@ -23,4 +23,4 @@ if you want the APK file to install the application (Plants Note)
        
 Screenshots:
 
-<img src="screenshots/1-list-empty" width="360" >
+<img src="screenshots/1-list-empty.png" width="360" >
