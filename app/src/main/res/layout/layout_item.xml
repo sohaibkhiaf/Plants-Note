@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="@dimen/_7sdp"
+    app:cardCornerRadius="@dimen/_7sdp"
+    app:cardUseCompatPadding="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/itemLayout_iv_plantImage"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_126sdp"
+            android:background="@color/green_2"
+            android:src="@drawable/image_default_1"
+            android:scaleType="centerCrop"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@+id/itemLayout_tv_plantName"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_32sdp"
+            android:padding="@dimen/_7sdp"
+            android:text=""
+            android:textSize="@dimen/_12sdp"
+            android:textColor="@color/black"
+            app:drawableStartCompat="@drawable/ic_plant_black"
+            android:drawablePadding="@dimen/_7sdp"
+            />
+
+        <TextView
+            android:id="@+id/itemLayout_tv_plantLocation"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_32sdp"
+            android:padding="@dimen/_7sdp"
+            android:text=""
+            android:textSize="@dimen/_12sdp"
+            android:textColor="@color/black"
+            app:drawableStartCompat="@drawable/ic_location_black"
+            android:drawablePadding="@dimen/_7sdp"
+            />
+
+
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>

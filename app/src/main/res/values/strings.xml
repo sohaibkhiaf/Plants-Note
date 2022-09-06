@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Plants Note</string>
+
+    <!-- main activity -->
+    <string name="mainAct_fab_contentDescription">Add a plant</string>
+
+    <!-- details activity -->
+    <string name="detailsAct_et_plantName">Plant name*</string>
+    <string name="detailsAct_et_plantLocation">Location*</string>
+    <string name="detailsAct_et_plantDescription">Description</string>
+    <string name="detailsAct_materialButton_loadImage">Load image from gallery</string>
+    <string name="detailsAct_materialButton_deleteImage">Delete image</string>
+    <string name="detailsAct_plantName_helperText">*required, used in search operation</string>
+    <string name="detailsAct_plantLocation_helperText">*required, appears on the card</string>
+    <string name="detailsAct_plantDescription_helperText">optional</string>
+
+    <!-- main menu -->
+    <string name="mainMenu_string_search">Search</string>
+
+    <!-- details menu -->
+    <string name="detailsMenu_string_delete">Delete</string>
+    <string name="detailsMenu_string_edit">Edit</string>
+    <string name="detailsMenu_string_done">Done</string>
+
+    <!-- dialog -->
+    <string name="dialogTitle_deleteItem">Delete</string>
+    <string name="dialogTitle_modifyItem">Modify</string>
+    <string name="dialogTitle_addItem">Add</string>
+    <string name="dialogTitle_backTitle">Back</string>
+
+    <string name="dialogMessage_deleteItem">Are you sure you want to delete this item?</string>
+    <string name="dialogMessage_modifyItem">Are you sure you want to modify this item?</string>
+    <string name="dialogMessage_saveChanges">Do you want to save changes in this item?</string>
+    <string name="dialogMessage_addItem">Do you want to add this item?</string>
+
+    <string name="dialogPositiveButton_yes">Yes</string>
+    <string name="dialogNegativeButton_no">No</string>
+    <string name="dialogNeutralButton_cancel">Cancel</string>
+
+    <!-- snackBar -->
+    <string name="snackBarMessage_itemDeleted">Item deleted successfully.</string>
+    <string name="snackBarMessage_itemModified">Item modified successfully.</string>
+    <string name="snackBarMessage_itemAdded">Item added successfully.</string>
+
+    <string name="snackBarButton_undo">Undo</string>
+    <string name="snackBarButton_ok">OK</string>
+
+    <!-- toast -->
+    <string name="toastMessage_fieldsEmpty">Fields cannot be empty!</string>
+    <string name="toastMessage_clickBack">Click BACK again to exit</string>
+    <string name="toastMessage_getContentException">Files not found!</string>
+    <string name="toastMessage_listEmpty">Plant list is empty!</string>
+
+</resources>

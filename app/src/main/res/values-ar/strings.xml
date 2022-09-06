@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">مذكرة النباتات</string>
+
+    <!-- main activity -->
+    <string name="mainAct_fab_contentDescription">إضافة نبتة</string>
+
+    <!-- details activity -->
+    <string name="detailsAct_et_plantName">إسم النبتة*</string>
+    <string name="detailsAct_et_plantLocation">الموقع*</string>
+    <string name="detailsAct_et_plantDescription">الوصف</string>
+    <string name="detailsAct_materialButton_loadImage">حمل صورة من المعرض</string>
+    <string name="detailsAct_materialButton_deleteImage">حذف الصورة</string>
+    <string name="detailsAct_plantName_helperText">*إجباري، يستخدم في عملية البحث</string>
+    <string name="detailsAct_plantLocation_helperText">*إجباري، يظهر على البطاقة</string>
+    <string name="detailsAct_plantDescription_helperText">إختياري</string>
+
+    <!-- main menu -->
+    <string name="mainMenu_string_search">بحث</string>
+
+    <!-- details menu -->
+    <string name="detailsMenu_string_delete">حذف</string>
+    <string name="detailsMenu_string_edit">تعديل</string>
+    <string name="detailsMenu_string_done">تم</string>
+
+    <!-- dialog -->
+    <string name="dialogTitle_deleteItem">الحذف</string>
+    <string name="dialogTitle_modifyItem">التعديل</string>
+    <string name="dialogTitle_addItem">الإضافة</string>
+    <string name="dialogTitle_backTitle">الرجوع</string>
+
+    <string name="dialogMessage_deleteItem">هل أنت متأكد من حذف هذا العنصر؟</string>
+    <string name="dialogMessage_modifyItem">هل أنت متأكد من تعديل هذا العنصر؟</string>
+    <string name="dialogMessage_saveChanges">هل تريد حفظ التغييرات على هذا العنصر؟</string>
+    <string name="dialogMessage_addItem">هل تريد إضافة هذا العنصر؟</string>
+
+    <string name="dialogPositiveButton_yes">نعم</string>
+    <string name="dialogNegativeButton_no">لا</string>
+    <string name="dialogNeutralButton_cancel">إلغاء</string>
+
+    <!-- snackBar -->
+    <string name="snackBarMessage_itemDeleted">تم حذف العنصر بنجاح.</string>
+    <string name="snackBarMessage_itemModified">تم تعديل العنصر بنجاح.</string>
+    <string name="snackBarMessage_itemAdded">تمت إضافة العنصر بنجاح.</string>
+
+    <string name="snackBarButton_undo">تراجع</string>
+    <string name="snackBarButton_ok">حسنا</string>
+
+    <!-- toast -->
+    <string name="toastMessage_fieldsEmpty">لا يمكن للحقول أن تكون فارغة!</string>
+    <string name="toastMessage_clickBack">اضغط على زر الرجوع مرتين للخروج</string>
+    <string name="toastMessage_getContentException">لا يمكن الوصول للبيانات!</string>
+    <string name="toastMessage_listEmpty">قائمة النباتات فارغة!</string>
+
+</resources>
