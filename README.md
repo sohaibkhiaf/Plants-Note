@@ -49,7 +49,7 @@ Screenshots:
           
   <tr>
     <td>Search</td>
-     <td>Edit Item</td>
+     <td>Modify Item</td>
      <td>Item Modified</td>
   </tr>
   <tr>
