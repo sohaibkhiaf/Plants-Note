@@ -1,6 +1,5 @@
 # Plants-Note
-this is a mobile app project that represents a note of plants, and it is created for training purpose.
-you may need to get an insight into a part/all of the project's code if you are interested in one or all of the partitions used to build it:
+This is a mobile app project that represents a note of plants, and it is created for training purpose. you may need to get an insight into a part/all of the project's code if you are interested in one or all of the partitions used to build it:
 
 -Material design (MaterialToolbar, TextViewEditText, FloatingActionBar..).
 
