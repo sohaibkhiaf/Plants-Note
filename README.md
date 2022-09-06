@@ -23,13 +23,19 @@ if you want the APK file to install the application (Plants Note)
        
 Screenshots:
 
-<p float="left">
 
-          <img src="screenshots/1-list-empty.png" width="33%" />
-          <img src="screenshots/2-add-plant.png" width="33%" />
-          <img src="screenshots/3-fill-fields.png" width="33%" />
-          
-</p>
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/1-list-empty.png" width=270 height=480></td>
+    <td><img src="screenshots/2-add-plant.png" width=270 height=480></td>
+    <td><img src="screenshots/2-add-plant.png" width=270 height=480></td>
+  </tr>
+ </table>
 
 
 
