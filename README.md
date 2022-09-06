@@ -36,48 +36,32 @@ Screenshots:
     <td><img src="screenshots/3-fill-fields.png" width=270 height=480></td>
   </tr>
           
-          <tr>
-    <td>List Empty</td>
-     <td>Add Plant</td>
-     <td>Fill Fields</td>
+   <tr>
+    <td>Item Inserted</td>
+     <td>Add Another Item</td>
+     <td>Many Items</td>
   </tr>
   <tr>
-    <td><img src="screenshots/1-list-empty.png" width=270 height=480></td>
-    <td><img src="screenshots/2-add-plant.png" width=270 height=480></td>
-    <td><img src="screenshots/3-fill-fields.png" width=270 height=480></td>
+    <td><img src="screenshots/4-item-inserted.png" width=270 height=480></td>
+    <td><img src="screenshots/5-add-another-item.png" width=270 height=480></td>
+    <td><img src="screenshots/6-many-items.png" width=270 height=480></td>
   </tr>
           
-          <tr>
-    <td>List Empty</td>
-     <td>Add Plant</td>
-     <td>Fill Fields</td>
+  <tr>
+    <td>Search</td>
+     <td>Edit Item</td>
+     <td>Item Modified</td>
   </tr>
   <tr>
-    <td><img src="screenshots/1-list-empty.png" width=270 height=480></td>
-    <td><img src="screenshots/2-add-plant.png" width=270 height=480></td>
-    <td><img src="screenshots/3-fill-fields.png" width=270 height=480></td>
+    <td><img src="screenshots/7-search.png" width=270 height=480></td>
+    <td><img src="screenshots/8-edit-item.png" width=270 height=480></td>
+    <td><img src="screenshots/9-item-modified.png" width=270 height=480></td>
   </tr>
           
    <tr>
-    <td>List Empty</td>
+    <td>Click Again To Exit</td>
   </tr>
   <tr>
-    <td><img src="screenshots/1-list-empty.png" width=270 height=480></td>
+    <td><img src="screenshots/10-click-again-to-exit.png" width=270 height=480></td>
   </tr>
  </table>
-
-
-
-<img src="screenshots/4-item-inserted.png" width="360" style="display:inline;" >
-<img src="screenshots/5-add-another-item.png" width="360" style="display:inline;">
-<img src="screenshots/6-many-items.png" width="360" style="display:inline;" >
-
-<br>
-
-<img src="screenshots/7-search.png" width="360" style="display:inline;">
-<img src="screenshots/8-edit-item.png" width="360" style="display:inline;">
-<img src="screenshots/9-item-modified.png" width="360" style="display:inline;" >
-
-<br>
-
-<img src="screenshots/10-click-again-to-exit.png" width="360" style="display:inline;" >
