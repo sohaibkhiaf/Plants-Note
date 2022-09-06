@@ -17,3 +17,10 @@ This is a mobile app project that represents a note of plants, and it is created
 -Snackbars with actions (UNDO: when deleting or modifying and OK: when adding a Plant item).
 
 -the user has to click twice on back button in 2s to exit from the app in the MainActivity.
+
+if you want the APK file to install the application (Plants Note) 
+       and test it by yourself here is a direct mediafire link : https://www.mediafire.com/file/7b0mdkbj4tgc7tc/Plants-Note.apk/file
+       
+Screenshots:
+
+<img src="screenshots/1-list-empty" width="360" >
